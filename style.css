@@ -39,6 +39,16 @@
       --site-max-width: 1300px;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
 ul{
     list-style: none;
 }
@@ -117,6 +127,23 @@ header .navbar {
 
 .navbar :where(#menu-close-button, #menu-open-button) {
     display: none;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 999;
+  background: #2e2b28;
+  padding: 1rem 2rem;
+  
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+body {
+  padding-top: 40px; 
 }
 
 .hero-section{
@@ -512,8 +539,6 @@ header .navbar {
     margin: 0 5px;
 
 }
-
-
 
 
 @media screen and (max-width: 1024px) {
