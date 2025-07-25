@@ -636,7 +636,7 @@ body.show-mobile-menu .navbar .nav-menu{
 }
 
 .about-section .section-content{
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 70px;
 }
 
