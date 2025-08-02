@@ -1,6 +1,6 @@
-# Plattruck 🍽️ - A Food Truck Business Website
+# Mana Truck Wala 🍽️ - A Food Truck Business Website
 
-Welcome to **Plattruck**, a vibrant and modern website built to showcase the offerings and vibe of a food truck business. This project combines sleek UI design, smooth scrolling, and clean layout transitions to deliver a delightful user experience.
+Welcome to **Mana Truck Wala**, a vibrant and modern website built to showcase the offerings and vibe of a food truck business. This project combines sleek UI design, smooth scrolling, and clean layout transitions to deliver a delightful user experience.
 
 ---
 
@@ -46,10 +46,10 @@ cd BusinessWebsite
 
 ## 🚨 Upcoming Enhancements
 
-* [ ] Add **loading animation** on page load
-* [ ] Improve **mobile responsiveness**
-* [ ] Add **dark/light theme toggle**
-* [ ] Integrate Netlify deployment with custom domain
+*  Add **loading animation** on page load
+*  Improve **mobile responsiveness**
+*  Add **dark/light theme toggle**
+*  Integrate Netlify deployment with custom domain
 
 ---
 
